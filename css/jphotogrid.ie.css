@@ -1,0 +1,32 @@
+.menu{background:transparent;
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#66942A07,endColorstr=#66942A07);zoom: 1;}
+.menu .current,.menu a:hover{background:transparent;filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#33CC4F27,endColorstr=#33CC4F27);zoom: 1;}
+
+#container,#footer{background:transparent;
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#20000000,endColorstr=#20000000);zoom: 1;}
+
+#container_top{background:transparent;
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#80CC4F27,endColorstr=#80CC4F27);zoom: 1;}
+.container_title{background:transparent;
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#CC942A07,endColorstr=#CC942A07);zoom: 1;}
+
+.head-search input{background:transparent;
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#66999999,endColorstr=#66999999);zoom: 1;}
+
+#post_info{background:transparent;
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#33942A07,endColorstr=#33942A07);zoom: 1;}
+
+#ft-buttons-slideshowHolder{background:transparent;
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000,endColorstr=#99000000);zoom: 1;}
+
+blockquote{background:transparent;
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#66942A07,endColorstr=#66942A07);zoom: 1;}
+
+pre, code,.funcode{background:transparent;
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#CC942A07,endColorstr=#CC942A07);zoom: 1;}
+
+#comment_form input,#comment_form textarea{background:transparent;
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#66F8F8F8,endColorstr=#66F8F8F8);zoom: 1;}
+
+#comment_form .submit{background:transparent;
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#99942A07,endColorstr=#99942A07);zoom: 1;}
